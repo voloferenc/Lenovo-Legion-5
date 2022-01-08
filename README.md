@@ -1,5 +1,7 @@
 # Lenovo-Legion-5
 
+#https://medium.com/@aviezab/dual-gpu-amd-nvidia-setting-on-arch-linux-based-distro-a88f9874c2d
+
 Dual GPU AMD-NVIDIA Setting on Arch Linux based Distro
 Ashar A.
 
